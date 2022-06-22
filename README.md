@@ -71,7 +71,7 @@ npm start
 }
 ```
 
-## GET `/view` &` /view?searchInput=query` (search functionality)
+## GET `/view` & `/view?searchInput=query` (search functionality)
 
 - ### `/view`
 
@@ -81,7 +81,7 @@ npm start
 
   ### Example Value :
 
-  ### Successful Operation
+  ### Successful Operation -
 
   ```
   {
@@ -132,9 +132,9 @@ npm start
 
   ### Example Value :
 
-  ### Successful Operation
+  ### Successful Operation -
 
-  #### Found result -
+  #### Found result - `/view?searchInput=ktn`
 
   ```
   {
@@ -158,7 +158,7 @@ npm start
   }
   ```
 
-  #### Not found result
+  #### Not found result -  `/view?searchInput=xyz`
 
   ```
   {
